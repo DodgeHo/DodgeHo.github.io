@@ -6,7 +6,7 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: 道安澜 个人博客
+title: 道安澜 Dodge Ho
 description: 浮生倥偬，有缘萍聚，当浮一大白。
 github_username: DodgeHo
 
@@ -15,7 +15,7 @@ email: asdsay@21cn.com
 twitter_username:  Dodge__Ho
 
 # Set this to true to get LaTeX math equation support
-use_math:
+use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
